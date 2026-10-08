@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Data and experiment outputs
+data/
+artifacts/
+outputs/
+runs/
+*.log
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Prepared arrays
+*.npy
+*.npz
