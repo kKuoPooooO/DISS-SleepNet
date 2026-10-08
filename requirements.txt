@@ -1,0 +1,9 @@
+torch>=2.2.0
+numpy>=1.24
+h5py>=3.10
+scikit-learn>=1.3
+tqdm>=4.66
+mne>=1.6
+# Optional but recommended when your environment supports mamba kernels:
+# mamba-ssm>=2.2.2
+# causal-conv1d>=1.4.0
