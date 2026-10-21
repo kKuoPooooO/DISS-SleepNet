@@ -10,7 +10,7 @@ Model implementation and training scripts for DISS-SleepNet: Dual-Input Self-Sup
 - `scripts/finetune.py`: downstream sleep staging.
 - `experiments/run_main.py`: main experiment runner.
 
-Baseline comparison and ablation scripts are not included.
+
 
 ## Setup
 
